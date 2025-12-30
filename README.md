@@ -40,7 +40,7 @@ The project follows a clean architecture pattern:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Adam-C-Edarikkode/campus_lost_found
-   cd lostandfound
+   cd campus_lost_found
    ```
 
 2. **Install dependencies:**
